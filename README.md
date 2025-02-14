@@ -14,14 +14,14 @@ git clone https://github.com/RakeshRachaprolu/Notes-App.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd Django-React-NotesApp
+cd Notes-App
 
 ```
 
 --> Create a virtual environment :
 ```bash
 # If you are on Windows
-virtualenv env
+python -m venv env
 # If you are on Linux or Mac
 python -m venv env
 ```
